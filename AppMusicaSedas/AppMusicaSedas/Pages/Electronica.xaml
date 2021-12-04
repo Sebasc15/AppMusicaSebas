@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMusicaSedas.Electronica">
+    
+    <StackLayout>
+        <Label Text="Cargando información ..." FontSize="20"
+               HorizontalOptions="Center"
+               Margin="0,50,0,0"
+               Padding="0,0,0,50"
+               x:Name="Cargandoinfo"></Label>
+
+        <ActivityIndicator
+            Color="White"
+            IsRunning="True"
+            IsVisible="True"
+            VerticalOptions="Center"
+            x:Name="Indicator">
+        </ActivityIndicator>
+
+        <Grid x:Name="gridcanciones" RowSpacing="0"></Grid>
+        
+    </StackLayout>
+    
+</ContentPage>

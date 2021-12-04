@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMusicaSedas.MainPage">
+
+    <Grid ColumnSpacing="0" RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label x:Name="Titulo" Text="Aplicacion de musica" TextColor="#e5f0f5" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4" 
+               VerticalOptions="Center" HorizontalOptions="Center" FontSize="40" Padding="0,0,10,12"></Label>
+
+
+        <!-- 
+            Electronica. 
+            LABEL 3 columnas
+            Boton 1 Columna
+        -->
+        <Button x:Name="BtnElectronica" Text="Electronica" FontSize="30" BackgroundColor="#11748a" 
+                Grid.Column="0" Grid.Row="1" Clicked="BtnElectronica_Clicked" Margin="15,60,15,60"
+                Grid.ColumnSpan="4"></Button>
+
+
+        <!-- 
+            Rap. 
+            LABEL 3 columnas
+            Boton 1 Columna
+        -->
+        <Button x:Name="BtnRap" Text="Rap" FontSize="30" BackgroundColor="#37ab47" 
+                Grid.Column="0" Grid.Row="2" Clicked="BtnRap_Clicked" Margin="15,60,15,60"
+                Grid.ColumnSpan="4"></Button>
+
+        <!-- 
+            Metal.
+            LABEL 3 columnas
+            Boton 1 Columna
+        -->
+        <Button x:Name="BtnMetal" Text="Metal" FontSize="30" BackgroundColor="#ab8337" 
+                Grid.Column="0" Grid.Row="3" Clicked="BtnMetal_Clicked" Margin="15,60,15,60"
+                Grid.ColumnSpan="4"></Button>
+
+    </Grid>
+
+</ContentPage>

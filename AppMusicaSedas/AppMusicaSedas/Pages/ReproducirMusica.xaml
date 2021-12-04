@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="AppMusicaSedas.Pages.ReproducirMusica">
+    <Grid ColumnSpacing="0" RowSpacing="0" BackgroundColor="#3b3938" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ActivityIndicator x:Name="RueditaCargar" IsRunning="True" Color="White" IsVisible="True" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2"/>
+
+
+        <Label x:Name="ArtistaLbl" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+               FontSize="18"
+               Margin="0,0,0,0"
+               />
+
+        <Label x:Name="Titulo_Cancionlbl" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+               FontSize="18"
+               Margin="0,0,0,0"
+               />
+
+        <Label x:Name="AlbumLbl" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="4"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+               FontSize="18"
+               Margin="0,0,0,0"
+               />
+
+        <Label x:Name="GeneroLbl" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="4"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+               FontSize="18"
+               Margin="0,0,0,0"
+               />
+
+        <Button x:Name="izqbuton" Grid.Column="1" Grid.Row="5" Text="|◄" Margin="0,20,50,40" IsVisible="False"/>
+        <Button x:Name="playbuton" Clicked="Playbuton_Clicked" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2" Text="►" Margin="55,25,55,45" BackgroundColor="#37a2ad" IsVisible="False"/>
+        <Button x:Name="pausebuton" Clicked="Pausebuton_Clicked" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2" Text="||" Margin="55,25,55,45"  BackgroundColor="#DE9526" IsVisible="False"/>
+        <Button x:Name="derbuton" Grid.Column="2" Grid.Row="5" Text="►|" Margin="50,20,0,40" IsVisible="False"/>
+
+        <xct:MediaElement x:Name="mediaelement"
+                          Source="{Binding UrlCancion}"
+                          AutoPlay="True"
+                          ShowsPlaybackControls="True"
+                          Aspect="Fill"
+                          Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2"
+                          
+                          />
+        <Image Source="{Binding UrlImagen}" Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2" Grid.RowSpan="2" HorizontalOptions="Center" VerticalOptions="Start"
+               HeightRequest="125" WidthRequest="150"/>
+
+
+    </Grid>
+</ContentPage>

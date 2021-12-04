@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRDo5XH+C2qwRSadfo/vXY/HgzgHQ7inJhq0q9zRVn6DCMVzIwBSgLYFNf2koP8n3cw10Co1wAx6cQu80J/5ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.iOS\\AppMusicaSedas.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tapia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tapia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tapia\\.nuget\\packages\\xamarin.communitytoolkit\\1.1.0\\xamarin.communitytoolkit.1.1.0.nupkg.sha512",
+    "C:\\Users\\tapia\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tapia\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
