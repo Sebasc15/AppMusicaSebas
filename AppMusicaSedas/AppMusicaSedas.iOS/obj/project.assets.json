@@ -178,7 +178,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "AppMusicaSedas/1.0.0": {
+      "AppMusicaSebas/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -188,10 +188,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         }
       }
     },
@@ -372,7 +372,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "AppMusicaSedas/1.0.0": {
+      "AppMusicaSebas/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -382,10 +382,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         }
       }
     },
@@ -566,7 +566,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "AppMusicaSedas/1.0.0": {
+      "AppMusicaSebas/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -576,10 +576,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         }
       }
     },
@@ -760,7 +760,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "AppMusicaSedas/1.0.0": {
+      "AppMusicaSebas/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -770,10 +770,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AppMusicaSedas.dll": {}
+          "bin/placeholder/AppMusicaSebas.dll": {}
         }
       }
     }
@@ -1153,15 +1153,15 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "AppMusicaSedas/1.0.0": {
+    "AppMusicaSebas/1.0.0": {
       "type": "project",
-      "path": "../AppMusicaSedas/AppMusicaSedas.csproj",
-      "msbuildProject": "../AppMusicaSedas/AppMusicaSedas.csproj"
+      "path": "../AppMusicaSedas/AppMusicaSebas.csproj",
+      "msbuildProject": "../AppMusicaSedas/AppMusicaSebas.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "AppMusicaSedas >= 1.0.0",
+      "AppMusicaSebas >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "Xamarin.CommunityToolkit >= 1.1.0",
       "Xamarin.Essentials >= 1.7.0",
@@ -1175,9 +1175,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.iOS\\AppMusicaSedas.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.iOS\\AppMusicaSebas.iOS.csproj",
       "projectName": "AppMusicaSedas.iOS",
-      "projectPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.iOS\\AppMusicaSedas.iOS.csproj",
+      "projectPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.iOS\\AppMusicaSebas.iOS.csproj",
       "packagesPath": "C:\\Users\\tapia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.iOS\\obj\\",
       "projectStyle": "PackageReference",
@@ -1200,8 +1200,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.csproj": {
-              "projectPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.csproj"
+            "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSebas.csproj": {
+              "projectPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSebas.csproj"
             }
           }
         }

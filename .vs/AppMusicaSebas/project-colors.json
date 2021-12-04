@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a92fecc-7826-4adc-8f24-bdd5abf4304f": {
+      "ProjectGuid": "3a92fecc-7826-4adc-8f24-bdd5abf4304f",
+      "DisplayName": "AppMusicaSebas",
+      "ColorIndex": 0
+    },
+    "3e437cf7-c8ab-4673-aaac-9f4d84bd76ff": {
+      "ProjectGuid": "3e437cf7-c8ab-4673-aaac-9f4d84bd76ff",
+      "DisplayName": "AppMusicaSebas.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

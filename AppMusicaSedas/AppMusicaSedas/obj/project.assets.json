@@ -852,9 +852,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.csproj",
-      "projectName": "AppMusicaSedas",
-      "projectPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.csproj",
+      "projectUniqueName": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSebas.csproj",
+      "projectName": "AppMusicaSebas",
+      "projectPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSebas.csproj",
       "packagesPath": "C:\\Users\\tapia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\obj\\",
       "projectStyle": "PackageReference",

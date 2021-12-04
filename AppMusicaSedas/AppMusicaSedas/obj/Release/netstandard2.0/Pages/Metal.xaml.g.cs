@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppMusicaSedas.Pages.Metal.xaml", "Pages/Metal.xaml", typeof(global::AppMusicaSedas.Metal))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppMusicaSebas.Pages.Metal.xaml", "Pages/Metal.xaml", typeof(global::AppMusicaSedas.Metal))]
 
 namespace AppMusicaSedas {
     

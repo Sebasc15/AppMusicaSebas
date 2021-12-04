@@ -5,8 +5,6 @@ C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\com.companyname.appmusicasedas-Signed.aab
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\com.companyname.appmusicasedas-Signed.apk
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\com.companyname.appmusicasedas-Signed.apk.idsig
-C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\AppMusicaSedas.dll
-C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\AppMusicaSedas.pdb
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\build.props
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\adb.props
@@ -68,8 +66,6 @@ C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\link.flag
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\AppMusicaSedas.Android.dll
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\AppMusicaSedas.Android.pdb
-C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\AppMusicaSedas.dll
-C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\AppMusicaSedas.pdb
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\FormsViewGroup.dll
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\FormsViewGroup.pdb
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\Java.Interop.dll
@@ -480,3 +476,7 @@ C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\AppMusicaSebas.dll
+C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\bin\Release\AppMusicaSebas.pdb
+C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\AppMusicaSebas.dll
+C:\Users\tapia\source\repos\AppMusicaSedas\AppMusicaSedas\AppMusicaSedas.Android\obj\Release\120\android\assets\AppMusicaSebas.pdb

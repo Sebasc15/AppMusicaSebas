@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VYm1k9Mx03hGSmC3UijTQ4eXuNVYSosfrw75DHiT2kbH1hplVGD9rxPwdstd9FJ2HRjWAh5uZARs+fEf7Jalrw==",
+  "dgSpecHash": "VMqZPlYn4MY4Dpo0P++H6uzdxf6xky9AegWYF508+NX70Vdjs4IV/dFHnV12Mgmfnn/0L2t5Pt+SN9700+QHHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas.csproj",
+  "projectFilePath": "C:\\Users\\tapia\\source\\repos\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSedas\\AppMusicaSebas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tapia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\tapia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

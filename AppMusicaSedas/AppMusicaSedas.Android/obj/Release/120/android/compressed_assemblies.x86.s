@@ -5,18 +5,18 @@
 	.type	.L.compressed_assembly_descriptors, @object
 	.p2align	2
 .L.compressed_assembly_descriptors:
-	/* 0: AppMusicaSedas.Android.dll */
+	/* 0: AppMusicaSebas.dll */
 	/* uncompressed_file_size */
-	.long	501248
+	.long	35840
 	/* loaded */
 	.byte	0
 	/* data */
 	.zero	3
 	.long	compressed_assembly_data_0
 
-	/* 1: AppMusicaSedas.dll */
+	/* 1: AppMusicaSedas.Android.dll */
 	/* uncompressed_file_size */
-	.long	35840
+	.long	501248
 	/* loaded */
 	.byte	0
 	/* data */

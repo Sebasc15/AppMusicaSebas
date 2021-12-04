@@ -3,7 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "AppMusicaSedas.Android.dll" comes first in this list. */
 		"AppMusicaSedas.Android.dll",
-		"AppMusicaSedas.dll",
+		"AppMusicaSebas.dll",
 		"FormsViewGroup.dll",
 		"Newtonsoft.Json.dll",
 		"Xamarin.AndroidX.Activity.dll",
